@@ -1,0 +1,31 @@
+{
+  "name": "topcoat-theme-mobile-light",
+  "version": "0.0.0",
+  "description": "Light theme for mobile applications",
+  "main": "entry.css",
+  "style": "src/theme-mobile-light.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kristoferjoseph/theme-mobile-light.git"
+  },
+  "keywords": [
+    "topcoat",
+    "theme",
+    "mobile",
+    "light",
+    "css"
+  ],
+  "author": "@dam",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/theme-mobile-light/issues"
+  },
+  "dependencies": {
+    "topcoat-variables-shared": "git://github.com/topcoat/variables-shared.git",
+    "topcoat-variables-light": "git://github.com/topcoat/variables-light.git",
+    "topcoat-variables-mobile": "git://github.com/topcoat/variables-mobile.git"
+  }
+}
