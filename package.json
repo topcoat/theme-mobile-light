@@ -24,8 +24,8 @@
     "url": "https://github.com/kristoferjoseph/theme-mobile-light/issues"
   },
   "dependencies": {
-    "topcoat-variables-shared": "git://github.com/topcoat/variables-shared.git",
-    "topcoat-variables-light": "git://github.com/topcoat/variables-light.git",
-    "topcoat-variables-mobile": "git://github.com/topcoat/variables-mobile.git"
+    "topcoat-variables-mobile": "~0.1.0",
+    "topcoat-variables-light": "~0.2.0",
+    "topcoat-variables-shared": "~0.1.0"
   }
 }
