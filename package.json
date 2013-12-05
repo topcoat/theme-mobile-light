@@ -25,9 +25,9 @@
   },
   "dependencies": {
     "topcoat-variables-mobile": "~0.1.0",
-    "topcoat-variables-light": "~0.2.0",
     "topcoat-variables-shared": "~0.1.0",
     "topcoat-fonts": "~0.1.0",
-    "topcoat-grid": "~0.1.0"
+    "topcoat-grid": "~0.1.0",
+    "topcoat-variables-light": "~0.2.3"
   }
 }
