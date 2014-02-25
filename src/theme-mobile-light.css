@@ -7,6 +7,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: var(background--body);
+	font-size: var(base-font-size);
 }
 
 :focus {
