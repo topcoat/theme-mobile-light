@@ -4,10 +4,12 @@
 @import "topcoat-fonts";
 
 body {
-	margin: 0;
-	padding: 0;
-	background: var(background--body);
-	font-size: var(base-font-size);
+  margin: 0;
+  padding: 0;
+  font-family: var(font-family, "Source Sans Pro", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif);
+  font-weight: var(font-weight, 400);
+  background: var(background--body, hsla(180, 5%, 88%, 1));
+  font-size: var(base-font-size, 16px);
 }
 
 :focus {
