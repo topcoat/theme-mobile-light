@@ -1,6 +1,6 @@
 {
   "name": "topcoat-theme-mobile-light",
-  "version": "0.2.5",
+  "version": "0.3.0",
   "description": "Light theme for mobile applications",
   "main": "entry.css",
   "style": "src/theme-mobile-light.css",
